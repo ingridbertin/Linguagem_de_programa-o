@@ -1,4 +1,4 @@
-# Linguagem de Programação :desktop_computer:
+# Linguagens de Programação :desktop_computer:
 
 Neste repositório, vocês irão encontrar todos os códigos utilizados nas aulas de:
 
